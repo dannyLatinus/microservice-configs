@@ -4,3 +4,4 @@ db:
   connection-timeout: '20000'
   url: jdbc:postgresql://db-companies:5433/companies
   password: udemy
+  driverClassName: org.postgresql.Driver
