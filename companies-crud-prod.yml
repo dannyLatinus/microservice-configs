@@ -3,4 +3,4 @@ db:
   maximum-pool-size: '5'
   connection-timeout: '20000'
   url: jdbc:postgresql://db-companies:5433/companies
-  password: TEYHSG1234
+  password: udemy
